@@ -2,7 +2,8 @@
 This Project can help you to Build C source and Execute Program at ONCE!
 
 ## info
-This Program helps you 
+This Program helps you to build and start easily at once! <br>
+Press ```Ctrl + Shift + B``` Will Build and execute at once!
 
 ### tasks.json
 ```json
